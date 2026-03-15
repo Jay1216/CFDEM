@@ -1,2 +1,11 @@
-# CFDEM
-CFD-DEM model is a two-phase Eulerian-Lagrangian model that couples the computational fluid dynamics for the fluid phase and the discrete element method for the particle phase.
+# CFD-DEM Case Setup 
+
+This repository provides the numerical case setup used in the CFD-DEM simulations associated with the study.
+
+Only the essential configuration files are included here due to repository size limitations. 
+The full simulation dataset and large mesh files are available upon request.
+
+For access to the complete dataset, please contact:
+
+Jiaye Zhang  
+Email: jiaye@udel.edu
