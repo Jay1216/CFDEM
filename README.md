@@ -1,4 +1,4 @@
-# CFD-DEM Case Setup 
+# CFD-DEM Simulations
 
 This repository provides the numerical case setup used in the CFD-DEM simulations associated with the study.
 
